@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kertas">#F3EDE1</color>
+    <color name="kartu">#FFFBF2</color>
+    <color name="tinta">#2A211C</color>
+    <color name="tinta_lembut">#7A6E63</color>
+    <color name="kopi">#3A2E27</color>
+    <color name="kopi_muda">#4F4037</color>
+    <color name="cabai">#C8432B</color>
+    <color name="mustard">#E2A93B</color>
+    <color name="garis">#E3D9C6</color>
+    <color name="stok_ok">#4C7A4A</color>
+    <color name="chip">#EFE6D3</color>
+    <color name="badge_bg">#F7DDD6</color>
+</resources>
