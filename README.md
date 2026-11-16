@@ -86,28 +86,18 @@ Struktur utama source code di dalam project:
 
 | Halaman Utama | Form Tambah Barang |
 |:---:|:---:|
-| ![Halaman Utama]
-<img width="396" height="691" alt="image" src="https://github.com/user-attachments/assets/99113eed-ddb2-4fba-8cef-7d08f4046e78" />
-
-| ![Form Tambah Barang]
-<img width="399" height="691" alt="image" src="https://github.com/user-attachments/assets/a2723594-1c7a-4d93-ad39-694e3c79c914" />
-
+| <img width="396" height="702" alt="image" src="https://github.com/user-attachments/assets/1c18731e-a421-4335-bbd9-d19b25f81a57" /> | <img width="402" height="706" alt="image" src="https://github.com/user-attachments/assets/cd1d1ada-f7c7-485d-a3f5-2978669a5a78" /> |
 
 | Ubah Stok | Pencarian Barang |
 |:---:|:---:|
-| ![Ubah Stok]
-<img width="406" height="704" alt="image" src="https://github.com/user-attachments/assets/ea43976e-6674-43d0-90c7-b48de462c560" />
-
-![Pencarian Barang]
-<img width="410" height="701" alt="image" src="https://github.com/user-attachments/assets/01f91794-6bbe-402a-b73c-f1c0f21944aa" />
-
+| <img width="392" height="694" alt="image" src="https://github.com/user-attachments/assets/dff627df-cea8-49e6-a1c2-dd012f71a5d8" /> | <img width="404" height="695" alt="image" src="https://github.com/user-attachments/assets/70359de6-3d4e-4b4b-aaa3-0ff45546d604" /> |
 
 ## File APK
 
 File APK dapat dibuat melalui **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
 Hasilnya berada di `app/build/outputs/apk/debug/app-debug.apk`.
 
-- Tautan / lokasi APK: app/build/outputs/apk/debug/app-debug.apk
+- Tautan / lokasi APK: C:\Users\david\AndroidStudioProjects\StokTokoKelontong\app\build\outputs\apk\debug\app-debug.apk
 
 ## Referensi
 
