@@ -50,7 +50,6 @@ digunakan tanpa koneksi internet.
 ## Struktur Folder
 
 - `uts/`: Source code dan file pendukung UTS (project Android Studio).
-- `uts/screenshots/`: Bukti visual hasil implementasi aplikasi.
 
 Struktur utama source code di dalam project:
 
